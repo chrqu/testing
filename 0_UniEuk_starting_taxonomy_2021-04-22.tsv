@@ -1,15 +1,5 @@
 taxon	taxon rank	candidate	taxon author	synonyms	alternative names	remarks
 Eukaryota						
-Eukaryota;'CRuMs'						phylogenomics-based group (Brown et al. 2018)
-Eukaryota;'CRuMs';Mantamonas	genus		Cavalier-Smith & Glücksman in Glücksman et al. 2011		Mantamonadidae; Mantamonadida	single genus Mantamonas in family Mantamonadidae and order Mantamonadida
-Eukaryota;'CRuMs';Glissandra	genus					no genetic data yet for this genus
-Eukaryota;'CRuMs';'CR clade'						18S-based group; Collodictyonidae and Rigifilida form a well-supported clade at the exclusion of Mantamonas
-Eukaryota;'CRuMs';'CR clade';Collodictyonidae	family		Adl et al. 2019		Diphylleida; Diphyllatea	single family Collodictyonidae in order Diphylleida and class Diphyllatea
-Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon	genus		Carter 1865			
-Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Diphylleia	genus		Massart 1920	Aulacomonas		
-Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Sulcomonas	genus		Brugerolle 2006			no genetic data yet for this genus
-Eukaryota;'CRuMs';'CR clade';Rigifilida	order		Cavalier-Smith in Yabuki et al. 2012			
-Eukaryota;'CRuMs';'CR clade';Rigifilida;Micronuclearia	genus		Mikrjukov & Mylnikov 2001		Micronucleariidae; Micronucleariida	single genus Micronuclearia in family Micronucleariidae; order Micronucleariida is redundant with order Rigifilida
 Eukaryota;'CRuMs';'CR clade';Rigifilida;Rigifila	genus		Yabuki & Cavalier-Smith in Yabuki et al. 2013		Rigifilidae	single genus Rigifila in family Rigifilidae
 Eukaryota;Amorphea			Adl et al. 2012			
 Eukaryota;Amorphea;Amoebozoa			Cavalier-Smith 1998			
